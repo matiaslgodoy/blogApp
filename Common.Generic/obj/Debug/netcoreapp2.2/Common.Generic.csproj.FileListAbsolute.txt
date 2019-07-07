@@ -1,0 +1,8 @@
+C:\Users\Darwoft\source\repos\BlogApp\Common.Generic\bin\Debug\netcoreapp2.2\Common.Generic.deps.json
+C:\Users\Darwoft\source\repos\BlogApp\Common.Generic\bin\Debug\netcoreapp2.2\Common.Generic.runtimeconfig.json
+C:\Users\Darwoft\source\repos\BlogApp\Common.Generic\bin\Debug\netcoreapp2.2\Common.Generic.runtimeconfig.dev.json
+C:\Users\Darwoft\source\repos\BlogApp\Common.Generic\bin\Debug\netcoreapp2.2\Common.Generic.dll
+C:\Users\Darwoft\source\repos\BlogApp\Common.Generic\obj\Debug\netcoreapp2.2\Common.Generic.csprojAssemblyReference.cache
+C:\Users\Darwoft\source\repos\BlogApp\Common.Generic\obj\Debug\netcoreapp2.2\Common.Generic.csproj.CoreCompileInputs.cache
+C:\Users\Darwoft\source\repos\BlogApp\Common.Generic\obj\Debug\netcoreapp2.2\Common.Generic.AssemblyInfoInputs.cache
+C:\Users\Darwoft\source\repos\BlogApp\Common.Generic\obj\Debug\netcoreapp2.2\Common.Generic.AssemblyInfo.cs

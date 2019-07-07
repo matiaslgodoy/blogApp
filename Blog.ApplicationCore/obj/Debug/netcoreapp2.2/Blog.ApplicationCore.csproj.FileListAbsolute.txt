@@ -1,0 +1,4 @@
+C:\Users\Darwoft\source\repos\BlogApp\Blog.ApplicationCore\obj\Debug\netcoreapp2.2\Blog.ApplicationCore.csprojAssemblyReference.cache
+C:\Users\Darwoft\source\repos\BlogApp\Blog.ApplicationCore\obj\Debug\netcoreapp2.2\Blog.ApplicationCore.csproj.CoreCompileInputs.cache
+C:\Users\Darwoft\source\repos\BlogApp\Blog.ApplicationCore\obj\Debug\netcoreapp2.2\Blog.ApplicationCore.AssemblyInfoInputs.cache
+C:\Users\Darwoft\source\repos\BlogApp\Blog.ApplicationCore\obj\Debug\netcoreapp2.2\Blog.ApplicationCore.AssemblyInfo.cs

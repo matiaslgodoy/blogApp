@@ -1,0 +1,16 @@
+C:\Users\Darwoft\source\repos\BlogApp\Blog.Api\bin\Debug\netcoreapp2.2\Blog.Api.deps.json
+C:\Users\Darwoft\source\repos\BlogApp\Blog.Api\bin\Debug\netcoreapp2.2\Blog.Api.runtimeconfig.json
+C:\Users\Darwoft\source\repos\BlogApp\Blog.Api\bin\Debug\netcoreapp2.2\Blog.Api.runtimeconfig.dev.json
+C:\Users\Darwoft\source\repos\BlogApp\Blog.Api\bin\Debug\netcoreapp2.2\Blog.Api.dll
+C:\Users\Darwoft\source\repos\BlogApp\Blog.Api\bin\Debug\netcoreapp2.2\Blog.Api.pdb
+C:\Users\Darwoft\source\repos\BlogApp\Blog.Api\obj\Debug\netcoreapp2.2\Blog.Api.csprojAssemblyReference.cache
+C:\Users\Darwoft\source\repos\BlogApp\Blog.Api\obj\Debug\netcoreapp2.2\Blog.Api.csproj.CoreCompileInputs.cache
+C:\Users\Darwoft\source\repos\BlogApp\Blog.Api\obj\Debug\netcoreapp2.2\Blog.Api.RazorAssemblyInfo.cache
+C:\Users\Darwoft\source\repos\BlogApp\Blog.Api\obj\Debug\netcoreapp2.2\Blog.Api.RazorAssemblyInfo.cs
+C:\Users\Darwoft\source\repos\BlogApp\Blog.Api\obj\Debug\netcoreapp2.2\Blog.Api.AssemblyInfoInputs.cache
+C:\Users\Darwoft\source\repos\BlogApp\Blog.Api\obj\Debug\netcoreapp2.2\Blog.Api.AssemblyInfo.cs
+C:\Users\Darwoft\source\repos\BlogApp\Blog.Api\obj\Debug\netcoreapp2.2\Blog.Api.RazorTargetAssemblyInfo.cache
+C:\Users\Darwoft\source\repos\BlogApp\Blog.Api\obj\Debug\netcoreapp2.2\Blog.Api.dll
+C:\Users\Darwoft\source\repos\BlogApp\Blog.Api\obj\Debug\netcoreapp2.2\Blog.Api.pdb
+C:\Users\Darwoft\source\repos\BlogApp\Blog.Api\bin\Debug\netcoreapp2.2\Blog.ApplicationCore.dll
+C:\Users\Darwoft\source\repos\BlogApp\Blog.Api\bin\Debug\netcoreapp2.2\Common.Generic.dll

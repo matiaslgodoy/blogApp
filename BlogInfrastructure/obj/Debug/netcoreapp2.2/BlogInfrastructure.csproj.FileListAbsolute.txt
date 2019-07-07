@@ -1,0 +1,8 @@
+C:\Users\Darwoft\source\repos\BlogApp\BlogInfrastructure\bin\Debug\netcoreapp2.2\BlogInfrastructure.deps.json
+C:\Users\Darwoft\source\repos\BlogApp\BlogInfrastructure\bin\Debug\netcoreapp2.2\BlogInfrastructure.runtimeconfig.json
+C:\Users\Darwoft\source\repos\BlogApp\BlogInfrastructure\bin\Debug\netcoreapp2.2\BlogInfrastructure.runtimeconfig.dev.json
+C:\Users\Darwoft\source\repos\BlogApp\BlogInfrastructure\bin\Debug\netcoreapp2.2\BlogInfrastructure.dll
+C:\Users\Darwoft\source\repos\BlogApp\BlogInfrastructure\obj\Debug\netcoreapp2.2\BlogInfrastructure.csprojAssemblyReference.cache
+C:\Users\Darwoft\source\repos\BlogApp\BlogInfrastructure\obj\Debug\netcoreapp2.2\BlogInfrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Darwoft\source\repos\BlogApp\BlogInfrastructure\obj\Debug\netcoreapp2.2\BlogInfrastructure.AssemblyInfoInputs.cache
+C:\Users\Darwoft\source\repos\BlogApp\BlogInfrastructure\obj\Debug\netcoreapp2.2\BlogInfrastructure.AssemblyInfo.cs
